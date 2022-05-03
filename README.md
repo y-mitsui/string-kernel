@@ -19,5 +19,5 @@ double sskKernelUtf8(char *s, char *t, int k, double l)
 @param　l ギャップに対するペナルティ
 @return　２つの文書の類似性スコア
 ```
-詳しくは、example.pyを見てください。
+詳しい使い方は、example.pyをご覧ください。
 
